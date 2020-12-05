@@ -1,0 +1,42 @@
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\Core Scheduler.exe
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\Core Scheduler.deps.json
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\Core Scheduler.runtimeconfig.json
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\Core Scheduler.runtimeconfig.dev.json
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\Core Scheduler.dll
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\Core Scheduler.pdb
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\Core Scheduler.Views.dll
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\Core Scheduler.Views.pdb
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\Quartz.dll
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.csprojAssemblyReference.cache
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.AssemblyInfoInputs.cache
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.AssemblyInfo.cs
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.csproj.CoreCompileInputs.cache
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.MvcApplicationPartsAssemblyInfo.cache
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.RazorAssemblyInfo.cache
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.RazorAssemblyInfo.cs
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\staticwebassets\Core Scheduler.StaticWebAssets.Manifest.cache
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\staticwebassets\Core Scheduler.StaticWebAssets.xml
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\scopedcss\bundle\Core Scheduler.styles.css
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.TagHelpers.input.cache
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.TagHelpers.output.cache
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.RazorCoreGenerate.cache
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.RazorTargetAssemblyInfo.cache
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.RazorTargetAssemblyInfo.cs
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.Views.pdb
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.csproj.CopyComplete
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.dll
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.pdb
+D:\Remon\Core Scheduler\Core Scheduler\Core Scheduler\obj\Debug\netcoreapp3.1\Core Scheduler.genruntimeconfig.cache
